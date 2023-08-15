@@ -7,7 +7,7 @@
 
 ## 스터디원
 - 🌦️ [은비](https://github.com/led156)
-
+- 🐱 [인서](https://github.com/sene03)
 
 ## 일정표
 - 💻 : 모여서 문제를 풀거나/구현하는 시간.
